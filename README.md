@@ -3,7 +3,7 @@
 
 **Lab1:**
 
-	Trong bài lab nhóm: 
+Trong bài lab nhóm: 
 + Nhóm trực quan một số thông tin trên tập dữ liệu https://www.kaggle.com/datasets/kunal28chaturvedi/covid19-and-its-impact-on-students
 
 	Bản thân làm phần: 
@@ -12,7 +12,7 @@
 
 **Lab2:**
 
-	Trong bài lab nhóm: 
+Trong bài lab nhóm: 
 + Nhóm trực quan một số thông tin trên tập dữ liệu https://www.kaggle.com/datasets/census/international-dataselect=midyear_population_5yr_age_sex.csv&fbclid=IwAR1FSpl8Ecq3exRLJCOtv1AyNIhzJ0LX65wfUwlU3FvTExFWFsu2qvMLyug
 
 	Bản thân làm phần: 
